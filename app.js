@@ -2,7 +2,7 @@
 
 alert("Hello Welcome to Our Page\nThanks You!!!");
 
-============================
+//============================
 VARIABLES FOR STRING 
 var username;
 var my_name = "Muhammad Hasan";
